@@ -4031,3 +4031,5 @@ The command for executing the whole playbook has changed. The `setup-main` tag g
 ## Docker container linking
 
 Changed the way the Docker containers are linked together. The ones that need to communicate with others operate in a `matrix` network now and not in the default bridge network.
+
+<!-- Auto-update: 2025-10-10T17:08:13.186284 -->
